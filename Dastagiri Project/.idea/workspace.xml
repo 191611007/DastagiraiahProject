@@ -1,0 +1,722 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="error" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="79ed5369-c62e-4c7a-8898-d4e804755ddd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/bac.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/imagee.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/.circleci/config.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/CODE_OF_CONDUCT.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/CONTRIBUTING.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/app/src/androidTest/java/com/burhanrashid52/imageeditor/EditImageActivityTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/app/src/main/assets/beyond_wonderland.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/app/src/main/assets/emojione-android.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/app/src/main/assets/filters/auto_fix.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/app/src/main/assets/filters/b_n_w.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/app/src/main/assets/filters/brightness.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/app/src/main/assets/filters/contrast.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/app/src/main/assets/filters/cross_process.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/app/src/main/assets/filters/documentary.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/app/src/main/assets/filters/dual_tone.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/app/src/main/assets/filters/fill_light.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/app/src/main/assets/filters/fish_eye.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/app/src/main/assets/filters/flip_horizental.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/app/src/main/assets/filters/flip_vertical.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/app/src/main/assets/filters/grain.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/app/src/main/assets/filters/gray_scale.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/app/src/main/assets/filters/lomish.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/app/src/main/assets/filters/negative.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/app/src/main/assets/filters/original.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/app/src/main/assets/filters/posterize.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/app/src/main/assets/filters/rotate.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/app/src/main/assets/filters/saturate.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/app/src/main/assets/filters/sepia.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/app/src/main/assets/filters/sharpen.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/app/src/main/assets/filters/temprature.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/app/src/main/assets/filters/tint.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/app/src/main/assets/filters/vignette.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/app/src/main/java/com/burhanrashid52/imageeditor/ColorPickerAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/app/src/main/java/com/burhanrashid52/imageeditor/EditImageActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/app/src/main/java/com/burhanrashid52/imageeditor/EmojiBSFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/app/src/main/java/com/burhanrashid52/imageeditor/GalleryAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/app/src/main/java/com/burhanrashid52/imageeditor/Gif.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/app/src/main/java/com/burhanrashid52/imageeditor/PhotoApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/app/src/main/java/com/burhanrashid52/imageeditor/PropertiesBSFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/app/src/main/java/com/burhanrashid52/imageeditor/StickerBSFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/app/src/main/java/com/burhanrashid52/imageeditor/TextEditorDialogFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/app/src/main/java/com/burhanrashid52/imageeditor/base/BaseActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/app/src/main/java/com/burhanrashid52/imageeditor/base/BaseFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/app/src/main/java/com/burhanrashid52/imageeditor/filters/FilterListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/app/src/main/java/com/burhanrashid52/imageeditor/filters/FilterViewAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/app/src/main/java/com/burhanrashid52/imageeditor/splah.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/app/src/main/java/com/burhanrashid52/imageeditor/tools/EditingToolsAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/app/src/main/java/com/burhanrashid52/imageeditor/tools/ToolType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/app/src/main/res/drawable/aa.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/app/src/main/res/drawable/baseline_camera_black_18dp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/app/src/main/res/drawable/bb.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/app/src/main/res/drawable/bc.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/app/src/main/res/drawable/brush.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/app/src/main/res/drawable/buttonshape.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/app/src/main/res/drawable/got.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/app/src/main/res/drawable/got_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/app/src/main/res/drawable/ic_brush.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/app/src/main/res/drawable/ic_camera.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/app/src/main/res/drawable/ic_close.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/app/src/main/res/drawable/ic_eraser.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/app/src/main/res/drawable/ic_gallery.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/app/src/main/res/drawable/ic_insert_emoticon.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/app/src/main/res/drawable/ic_photo_filter.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/app/src/main/res/drawable/ic_redo.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/app/src/main/res/drawable/ic_save.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/app/src/main/res/drawable/ic_sticker.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/app/src/main/res/drawable/ic_text.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/app/src/main/res/drawable/ic_undo.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/app/src/main/res/drawable/imageicon.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/app/src/main/res/drawable/original.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/app/src/main/res/drawable/rounded_border_text_view.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/app/src/main/res/drawable/saveetha.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/app/src/main/res/drawable/saveetha1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/app/src/main/res/drawable/spalsho.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/app/src/main/res/drawable/splahp.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/app/src/main/res/font/roboto_medium.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/app/src/main/res/layout/activity_edit_image.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/app/src/main/res/layout/activity_gif.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/app/src/main/res/layout/activity_splah.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/app/src/main/res/layout/add_text_dialog.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/app/src/main/res/layout/color_picker_item_list.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/app/src/main/res/layout/fragment_bottom_custom_effect_dialog.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/app/src/main/res/layout/fragment_bottom_properties_dialog.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/app/src/main/res/layout/fragment_bottom_sticker_emoji_dialog.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/app/src/main/res/layout/gv_item.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/app/src/main/res/layout/layout_tools_paint.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/app/src/main/res/layout/row_editing_tools.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/app/src/main/res/layout/row_emoji.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/app/src/main/res/layout/row_filter_view.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/app/src/main/res/layout/row_sticker.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/app/src/main/res/values/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/app/src/main/res/values/font_certs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/app/src/main/res/values/preloaded_fonts.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/app/src/test/java/com/burhanrashid52/imageeditor/SampleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/photoeditor/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/photoeditor/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/photoeditor/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/photoeditor/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/photoeditor/src/main/java/ja/burhanrashid52/photoeditor/BitmapUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/photoeditor/src/main/java/ja/burhanrashid52/photoeditor/BrushDrawingView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/photoeditor/src/main/java/ja/burhanrashid52/photoeditor/BrushViewChangeListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/photoeditor/src/main/java/ja/burhanrashid52/photoeditor/CustomEffect.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/photoeditor/src/main/java/ja/burhanrashid52/photoeditor/FilterImageView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/photoeditor/src/main/java/ja/burhanrashid52/photoeditor/GLToolbox.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/photoeditor/src/main/java/ja/burhanrashid52/photoeditor/ImageFilterView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/photoeditor/src/main/java/ja/burhanrashid52/photoeditor/MultiTouchListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/photoeditor/src/main/java/ja/burhanrashid52/photoeditor/OnPhotoEditorListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/photoeditor/src/main/java/ja/burhanrashid52/photoeditor/OnSaveBitmap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/photoeditor/src/main/java/ja/burhanrashid52/photoeditor/PhotoEditor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/photoeditor/src/main/java/ja/burhanrashid52/photoeditor/PhotoEditorView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/photoeditor/src/main/java/ja/burhanrashid52/photoeditor/PhotoFilter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/photoeditor/src/main/java/ja/burhanrashid52/photoeditor/SaveSettings.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/photoeditor/src/main/java/ja/burhanrashid52/photoeditor/ScaleGestureDetector.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/photoeditor/src/main/java/ja/burhanrashid52/photoeditor/TextureRenderer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/photoeditor/src/main/java/ja/burhanrashid52/photoeditor/Vector2D.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/photoeditor/src/main/java/ja/burhanrashid52/photoeditor/ViewType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/photoeditor/src/main/res/drawable-hdpi/ic_remove.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/photoeditor/src/main/res/drawable-mdpi/ic_remove.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/photoeditor/src/main/res/drawable-xhdpi/ic_remove.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/photoeditor/src/main/res/drawable-xxhdpi/ic_remove.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/photoeditor/src/main/res/drawable/rounded_border_tv.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/photoeditor/src/main/res/layout/view_photo_editor_image.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/photoeditor/src/main/res/layout/view_photo_editor_text.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/photoeditor/src/main/res/values/attrs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/photoeditor/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sai editor/settings.gradle" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1436884024">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.48" value="1" />
+          <entry key="project.open.time.5" value="2" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="12" />
+          <entry key="jpg" value="3" />
+          <entry key="png" value="2" />
+          <entry key="xml" value="16" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Image" value="5" />
+          <entry key="JAVA" value="12" />
+          <entry key="XML" value="16" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="105" />
+          <entry key="xml" value="256" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="105" />
+          <entry key="XML" value="256" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/burhanrashid52/imageeditor/EditImageActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3128">
+              <caret line="222" column="37" selection-start-line="222" selection-start-column="37" selection-end-line="222" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_gif.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="84" column="48" selection-start-line="84" selection-start-column="48" selection-end-line="84" selection-end-column="48" />
+            </state>
+          </provider>
+          <provider editor-type-id="android-designer2" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_edit_image.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="212">
+              <caret line="141" column="37" selection-start-line="141" selection-start-column="37" selection-end-line="141" selection-end-column="37" />
+            </state>
+          </provider>
+          <provider editor-type-id="android-designer2" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/burhanrashid52/imageeditor/Gif.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2567">
+              <caret line="177" selection-start-line="177" selection-end-line="177" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/burhanrashid52/imageeditor/splah.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="19" column="15" selection-start-line="19" selection-start-column="15" selection-end-line="19" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_camera.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+          <provider editor-type-id="android-manifest" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="36" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_splah.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="38" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
+            </state>
+          </provider>
+          <provider editor-type-id="android-designer2" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="layoutResourceFile" />
+        <option value="Class" />
+        <option value="resourceFile" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>g</find>
+      <find>saveImage</find>
+      <find>requestPermission</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/GoogleLoginAndroidTutorial" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/gv_item.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/burhanrashid52/imageeditor/EditImageActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/burhanrashid52/imageeditor/splah.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/styles.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/drawable/buttonshape.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/burhanrashid52/imageeditor/GalleryAdapter.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/burhanrashid52/imageeditor/Gif.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_splah.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_edit_image.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_gif.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="23" />
+    <option name="y" value="51" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
+      <pane id="AndroidView">
+        <subPane>
+          <expand>
+            <path>
+              <item name="PhotoEditor-master" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+            </path>
+            <path>
+              <item name="PhotoEditor-master" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="res" type="d4f16f75:AndroidResFolderNode" />
+            </path>
+            <path>
+              <item name="PhotoEditor-master" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="res" type="d4f16f75:AndroidResFolderNode" />
+              <item name="layout" type="ddeffd01:AndroidResFolderTypeNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/sdk" />
+    <property name="device.picker.selection" value="42000f35c66b2400" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/main/res/drawable" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Downloads\PhotoEditor-master\PhotoEditor-master\app\src\main\res\drawable" />
+    </key>
+    <key name="android.template.packageName">
+      <recent name="com.burhanrashid52.imageeditor" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Downloads\PhotoEditor-master\PhotoEditor-master\app\src\main\res\drawable" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="&lt;template&gt;" type="Applet" default="true" selected="false">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+    </configuration>
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="79ed5369-c62e-4c7a-8898-d4e804755ddd" name="Default Changelist" comment="" />
+      <created>1553773041681</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1553773041681</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <layout>
+      <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.3207262" />
+      <window_info id="Structure" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Build Variants" order="4" side_tool="true" />
+      <window_info id="Image Layers" order="5" />
+      <window_info id="Designer" order="6" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info anchor="bottom" id="Run" order="0" weight="0.3295082" />
+      <window_info anchor="bottom" id="Logcat" order="1" weight="0.8803279" />
+      <window_info anchor="bottom" id="TODO" order="2" weight="0.3295082" />
+      <window_info anchor="bottom" id="Find" order="3" weight="0.3295082" />
+      <window_info anchor="bottom" id="Debug" order="4" />
+      <window_info anchor="bottom" id="Terminal" order="5" sideWeight="0.49848714" weight="0.3295082" />
+      <window_info anchor="bottom" id="Event Log" order="6" sideWeight="0.50075644" side_tool="true" weight="0.29836065" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Build" order="8" sideWeight="0.49924356" visible="true" weight="0.062295083" />
+      <window_info anchor="bottom" id="Android Profiler" order="9" show_stripe_button="false" />
+      <window_info anchor="right" id="Device File Explorer" order="0" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Gradle" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="right" id="Preview" order="4" visible="true" weight="0.28290468" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/aa.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/bb.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/burhanrashid52/imageeditor/ColorPickerAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/saveetha.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/burhanrashid52/imageeditor/PhotoApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/got.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/got_s.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/burhanrashid52/imageeditor/EmojiBSFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="47" selection-start-line="8" selection-start-column="47" selection-end-line="8" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/gv_item.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="15" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="15" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/buttonshape.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="30" column="8" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/styles.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="68" selection-start-line="3" selection-start-column="68" selection-end-line="3" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/burhanrashid52/imageeditor/GalleryAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="57" selection-start-line="57" selection-end-line="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/burhanrashid52/imageeditor/EditImageActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3128">
+          <caret line="222" column="37" selection-start-line="222" selection-start-column="37" selection-end-line="222" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/burhanrashid52/imageeditor/Gif.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2567">
+          <caret line="177" selection-start-line="177" selection-end-line="177" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/burhanrashid52/imageeditor/splah.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="19" column="15" selection-start-line="19" selection-start-column="15" selection-end-line="19" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_camera.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider editor-type-id="android-manifest" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="36" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_splah.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="38" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_edit_image.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="141" column="37" selection-start-line="141" selection-start-column="37" selection-end-line="141" selection-end-column="37" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_gif.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="84" column="48" selection-start-line="84" selection-start-column="48" selection-end-line="84" selection-end-column="48" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
